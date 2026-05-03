@@ -1,5 +1,5 @@
 [versions]
-first = "2.23.0"
+first = "2.25.4"
 license = "3.3.2"
 
 [libraries]
